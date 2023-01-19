@@ -23,7 +23,7 @@ myTuple[1] = 42
 
 //Objects
 let myObj: object
-myObj = [] //arrays are types of objects
+myObj = [] //arrays are a type of objects
 myObj = bands
 myObj = {} //shows myObj is an object
 
